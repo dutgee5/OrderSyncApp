@@ -1,4 +1,4 @@
-package com.thedone.ordersyncapp.ui.theme
+package com.thedone.ordersyncapp.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
